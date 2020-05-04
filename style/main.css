@@ -1,0 +1,97 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+body{
+    font-size: 0px;
+}
+h1{ 
+    font-family: 'Raleway', sans-serif;
+    font-size: 36px;
+    font-weight: 405;
+    color:#212121;
+    text-align: center;
+}
+h2{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: #333333;
+    text-align: center;
+    margin: 29px auto 29px auto;
+}
+p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    color: #86878B;
+    text-align: center;
+}
+hr{
+    width: 64px;
+    height: 2px;
+    border: none;
+    background: #ff8c2d;
+    display: block;
+    margin: 30px auto 30px auto;
+}
+.topic {
+    padding-top: 107px;
+  /*background-color: slateblue;*/
+}
+.virtues{
+    width: 1050px;
+    margin: 0 auto;
+    padding: 80px 0 104px 0;
+  /*background-color: thistle;*/
+}
+.thoughtful-design{
+    display: inline-block;
+    width: 350px;
+    margin: 0 auto;
+  /*background-color: teal;*/
+}
+.thoughtful-design--lightbubl{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    border: 2px solid #ff8c2d;
+    margin: 0 auto; 
+}
+.thoughtful-design--lightbubl img{
+    display: block;
+    margin: 20px auto auto auto;
+}
+.well-creafted{
+    display: inline-block;
+    width: 350px;
+    margin: 0 auto;
+  /*background-color: red;*/
+}
+.well-creafted--keyboard{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    border: 2px solid #ff8c2d; 
+    margin: 0 auto;
+}
+.well-creafted--keyboard img{
+    display: block;
+    margin: 20px auto auto auto;
+}
+.easy-customizing{
+    display: inline-block;
+    width: 350px;
+    margin: 0 auto;
+  /*background-color: teal;*/
+}
+.easy-customizing--lightning{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    border: 2px solid #ff8c2d;
+    margin: 0 auto; 
+}
+.easy-customizing--lightning img{
+    display: block;
+    margin: 20px auto auto auto;
+}
